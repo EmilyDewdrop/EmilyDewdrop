@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software.
 
 <!--
 **EmilyDewdrop/EmilyDewdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
