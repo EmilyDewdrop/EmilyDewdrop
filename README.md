@@ -1,5 +1,13 @@
 ### Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software.
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/emily-k-turner/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/ETWriteHome">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ![A pink and yellow banner that reads, 'Emily Turner Web developer' with a very excited looking photo of Emily which reads, 'I can be this excited about your next web development project'](https://github.com/EmilyDewdrop/EmilyDewdrop/assets/49107443/26fc3596-ee77-4a9d-9ee8-bd910b5cf35a)
 
