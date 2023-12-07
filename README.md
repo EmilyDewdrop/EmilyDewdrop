@@ -17,7 +17,17 @@ Always learning on:
 
 A little about me:
 
-🧑🏻‍💻 I'm currently studing on the foundation programme at [Founders and Coders](https://www.foundersandcoders.com/) where I'm working collaboratively to build exciting software.
-🧑🏻‍🏫 I have worked as a primary teacher and in learning and education in the museum and heritage sector as well as non-profits.
-🚍 I am a [prolific public transport rider](https://www.independent.co.uk/travel/uk/local-bus-london-scotland-b2282641.html) and [advocate for better transport services](https://www.route-one.net/features/what-the-industry-can-learn-from-a-bus-superfan/) – and I'm currently writing a book about adventures on buses.
-🚇 I research, produce, host and edit [a podcast about London Underground Stations](https://podcasts.apple.com/gb/podcast/roundel-round-we-go/id1572610477).
+- 🧑🏻‍💻 I'm currently studing on the foundation programme at [Founders and Coders](https://www.foundersandcoders.com/) where I'm working collaboratively to build exciting software.
+- 🧑🏻‍🏫 I have worked as a primary teacher and in learning and education in the museum and heritage sector as well as non-profits.
+- 🚍 I am a [prolific public transport rider](https://www.independent.co.uk/travel/uk/local-bus-london-scotland-b2282641.html) and [advocate for better transport services](https://www.route-one.net/features/what-the-industry-can-learn-from-a-bus-superfan/) – and I'm currently writing a book about adventures on buses.
+- 🚇 I research, produce, host and edit [a podcast about London Underground Stations](https://podcasts.apple.com/gb/podcast/roundel-round-we-go/id1572610477).
+- 👩🏽‍❤️‍👩🏿 I am also in the process of qualifying to be a Sex and Relationship Therapist.
+
+Things I would love to be involved in:
+
+- 🚋 creating apps and services that make transport more usable for the general public
+- 👩🏽‍🦯 implementing technological solutions that are accessible to everyone
+- 👰🏻‍♀️ dating and relationship apps, as well as sextech
+- 🌳 using tech to improve the environment 
+
+
