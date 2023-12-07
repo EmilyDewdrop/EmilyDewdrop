@@ -1,6 +1,6 @@
-### Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software.
+<h1 style="text-align: center;" color="pink"> Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software. </h1>
 
-<div id="badges">
+<div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/emily-k-turner/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
