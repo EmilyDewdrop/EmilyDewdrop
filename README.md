@@ -1,4 +1,4 @@
-<h1 style="text-align: center;" color="pink"> Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software. </h1>
+<h1 style="text-align: center;" color="#FC0FC0"> Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software. </h1>
 
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/emily-k-turner/">
