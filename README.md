@@ -38,4 +38,10 @@
 - 👰🏻‍♀️ dating and relationship apps, as well as sextech
 - 🌳 using tech to improve the environment 
 
+## A bit of fun:
+
+I followed a [receipe created in the programming language Chef](https://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/) to bake a 'Hello World!' chocolate cake and it was... not terrible? However, as much as I love coding and baking, I think I'll keep them apart in future projects.
+
+![a slice of cake in a lot of chocolate sauce](https://github.com/EmilyDewdrop/EmilyDewdrop/assets/49107443/c60bdc0d-0535-45d2-b753-b189a457d71b)
+
 
