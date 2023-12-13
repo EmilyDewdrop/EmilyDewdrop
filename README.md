@@ -1,4 +1,4 @@
-# Hi – I'm Emily (she/they). Writer, transport enthusiast, and builder of creative software. 
+# Hi – I'm Emily – Writer, transport enthusiast, and builder of creative software. 
 
 <div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/emily-k-turner/">
